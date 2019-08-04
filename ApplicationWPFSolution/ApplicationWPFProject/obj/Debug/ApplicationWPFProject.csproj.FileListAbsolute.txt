@@ -1,0 +1,44 @@
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\bin\Debug\ApplicationWPFProject.exe.config
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\bin\Debug\ApplicationWPFProject.exe
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\bin\Debug\ApplicationWPFProject.pdb
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\View\MainWindow.g.cs
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\App.g.cs
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject_MarkupCompile.cache
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject_MarkupCompile.lref
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\View\MainWindow.baml
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.g.resources
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.Properties.Resources.resources
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.csproj.GenerateResource.cache
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.csproj.CoreCompileInputs.cache
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.exe
+C:\Users\herczeg\source\repos\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.pdb
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\bin\Debug\ApplicationWPFProject.exe.config
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\bin\Debug\ApplicationWPFProject.exe
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\bin\Debug\ApplicationWPFProject.pdb
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.csprojAssemblyReference.cache
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\View\MainWindow.g.cs
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\App.g.cs
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject_MarkupCompile.cache
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject_MarkupCompile.lref
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\View\MainWindow.baml
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.g.resources
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.Properties.Resources.resources
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.csproj.GenerateResource.cache
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.csproj.CoreCompileInputs.cache
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.exe
+C:\Users\herczeg\Desktop\Új mappa\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.pdb
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\bin\Debug\ApplicationWPFProject.exe.config
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\bin\Debug\ApplicationWPFProject.exe
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\bin\Debug\ApplicationWPFProject.pdb
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.csprojAssemblyReference.cache
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\View\MainWindow.g.cs
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\App.g.cs
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject_MarkupCompile.cache
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject_MarkupCompile.lref
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\View\MainWindow.baml
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.g.resources
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.Properties.Resources.resources
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.csproj.GenerateResource.cache
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.csproj.CoreCompileInputs.cache
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.exe
+C:\Users\Herczeg Zoltán\Desktop\ApplicationWPFSolution\ApplicationWPFProject\obj\Debug\ApplicationWPFProject.pdb
